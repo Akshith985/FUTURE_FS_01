@@ -116,6 +116,12 @@ export default function Page() {
 
                     </button>
                     </Link>
+                    <Link href="https://chocolate-guanaco-bec.notion.site/Welcome-to-my-Blog-29ed503c9e9a80cdb001d0e3355c3e54">
+                    <button href="https://x.com/AkshithAnand26" className="border border-purple-900 transition text-slate-600 dark:text-white rounded-md px-6 h-11">
+                        My Blog
+
+                    </button>
+                    </Link>
                     
                 </div>
             </div>
